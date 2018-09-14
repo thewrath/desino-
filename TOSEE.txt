@@ -1,0 +1,4 @@
+-SDL_Image quit ?? 
+-renderText charger la police une fois et la garder ouverte ? 
+-pourquoi renderer n'est pas passer par référence dans le fonctions de chargement des textures
+-Pointeur pour l'instance de game dans engine ?? 

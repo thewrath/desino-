@@ -1,0 +1,4 @@
+-Ajouter un système pour gérer les extensions de la SDL 
+						-Gérer les flags de compilation pour les extensions 
+						-mettre des if de preprocesseur pour compiler ou non les parties de code liées aux extensions 
+-créer un système de log simple mais poussé 
